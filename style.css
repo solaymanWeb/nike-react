@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.infinity-color{
+    color:  #FA804C;
+
+}
+.head-to-banner{
+    background-color:  #FFF9F4;
+}
